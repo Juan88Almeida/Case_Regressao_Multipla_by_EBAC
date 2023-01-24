@@ -16,4 +16,4 @@ E, embora não tenha conseguido agradar 100% a todos os presentes, foi reconheci
 ![WhatsApp Image 2023-01-24 at 02 11 24](https://user-images.githubusercontent.com/114545696/214216980-8a3bd1a6-6f36-47b5-8f0d-574a585989fc.jpeg)
 ![WhatsApp Image 2023-01-24 at 02 16 45](https://user-images.githubusercontent.com/114545696/214217269-c82e3a28-025b-46c4-b8dc-a886991b2512.jpeg)
 
-Caso tenha mais vontade de conhecer o projeto, basta seguir esse link:
+Caso tenha mais vontade de conhecer o projeto, basta seguir esse link: https://github.com/Juan88Almeida/Case_Regressao_Multipla_by_EBAC/blob/1dbdf7a760ba640b66e3252b41e962e082bfc4c7/Case_Regress%C3%A3o_M%C3%BAltipla_(JUAN).xls
