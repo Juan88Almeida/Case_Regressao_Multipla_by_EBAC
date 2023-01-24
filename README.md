@@ -1,4 +1,4 @@
-# Case_Regressao_Multipla_by_EBAC
+# Case Regressão Múltipla by EBAC
 Desafio proposto durante o Workshop de Regressão Linear para Ciência de Dados fornecido pela plataforma EBAC, em que os participantes tiveram que construir uma solução que respondesse as perguntas do desafio.
 
 1. Utilize o método Backward para realizar a seleção de variáveis, utilizando 90% de confiança. Quais variáveis são importantes para explicar o Y?
